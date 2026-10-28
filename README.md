@@ -55,7 +55,7 @@ A project focused on using AI to support research workflows, organize informatio
 
 **Focus areas:** Python, LLM applications, information retrieval, and practical AI workflows.
 
-🔗 **Repository:** [Add your AI Research Assistant repository URL]
+🔗 **Repository:** https://github.com/agola-manav/ai-research-assistant
 
 ### 2. Document Intelligence RAG Agent
 An assistant designed to answer questions about PDFs, company documents, or technical documentation using retrieval-augmented generation.
@@ -77,7 +77,7 @@ An AI-powered advertising product concept focused on helping users create and ma
 
 **Development focus:** Laravel APIs, Next.js frontend, authentication, business onboarding, templates, and advertising account connections.
 
-🔗 **Repository:** [Add your AdPilot AI repository URL]
+🔗 **Repository:** https://github.com/agola-manav/RAG-agent
 
 ---
 
