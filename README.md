@@ -70,14 +70,14 @@ An assistant designed to answer questions about PDFs, company documents, or tech
 
 **Technology direction:** Python, FastAPI, LangGraph, ChromaDB or FAISS, an LLM API, and Streamlit.
 
-🔗 **Repository:** [Add your Document Intelligence RAG Agent repository URL]
+🔗 **Repository:** https://github.com/agola-manav/RAG-agent
 
 ### 3. AdPilot AI
 An AI-powered advertising product concept focused on helping users create and manage advertising workflows through a web application.
 
 **Development focus:** Laravel APIs, Next.js frontend, authentication, business onboarding, templates, and advertising account connections.
 
-🔗 **Repository:** https://github.com/agola-manav/RAG-agent
+🔗 **Repository:** https://github.com/agola-manav/abpilot
 
 ---
 
