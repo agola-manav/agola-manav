@@ -1,172 +1,124 @@
 # Hi, I'm Manav Patel 👋
 
-### Laravel & Vue.js Developer | PHP | MySQL | Exploring Agentic AI
+### Software Developer | Generative AI & Agentic AI Engineer in Progress
 
-I'm a software developer with 3.5+ years of experience in web development, specializing in Laravel, PHP, Vue.js, JavaScript, and MySQL.
+I'm a software developer with experience building web and mobile applications. My background includes **Laravel, PHP, Vue.js, and Flutter**, and I'm expanding into **Python, Generative AI, Retrieval-Augmented Generation (RAG), and AI agents**.
 
-I currently work at Digiprix – Web and Mobile Solutions LLP, where I started with a 6-month internship and continued as a Laravel developer.
+I enjoy learning by building practical projects and turning ideas into useful, reliable software.
 
-Currently, I'm expanding my expertise into Python, Generative AI, and Agentic AI, with a focus on building practical AI-powered applications.
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
-
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### AI & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLMs-412991?style=flat)
-![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=flat)
-
-Currently learning and building:
-
-- Python for AI
-- LLM Applications
-- RAG
-- Tool Calling
-- AI Agents
-- Agentic AI
-- AI Application Development
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+- 🔭 **Currently building:** AI-powered applications, document intelligence, and RAG workflows
+- 🌱 **Currently learning:** Python for AI, LLM application development, LangGraph, embeddings, vector databases, and agentic workflows
+- 🎯 **Goals:** Build production-ready AI products, develop AI SaaS solutions, contribute to meaningful projects, and pursue remote opportunities and freelance work
+- 💡 **Interests:** AI agents, RAG systems, developer tools, automation, and full-stack product development
 
 ---
 
-## 💼 Experience
+## 🧰 Tech Stack
 
-### Digiprix – Web and Mobile Solutions LLP
+### Languages
+- PHP
+- Python
+- JavaScript
+- HTML & CSS
 
-**Laravel Developer**
+### Web & Mobile Development
+- Laravel
+- Vue.js
+- Flutter
+- REST APIs
+- MySQL
 
-- Completed a 6-month internship before continuing as a Laravel developer.
-- Working on web applications and backend systems.
-- Building REST APIs and business application features.
-- Working with Laravel, PHP, Vue.js, JavaScript and MySQL.
-- Exploring AI-powered solutions and Agentic AI applications.
+### AI Engineering — Learning & Building
+- Large Language Model (LLM) applications
+- Retrieval-Augmented Generation (RAG)
+- Document ingestion and chunking
+- Embeddings and vector search
+- LangGraph and agentic workflows
+- FastAPI
+- ChromaDB / FAISS
+- LLM evaluation, tracing, and observability
+
+### Tools & Workflow
+- Git & GitHub
+- Linux / Ubuntu
+- Docker *(as used in individual projects)*
+- API testing and debugging
+
+> This list reflects a mix of professional experience and technologies I'm actively learning. Project-specific READMEs describe the tools actually implemented in each repository.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Issue Triage Assistant
+### 1. AI Research Assistant
+A project focused on using AI to support research workflows, organize information, and help users work with research content.
 
-An AI-powered application for analyzing software issues, classifying severity, suggesting possible fixes, and using LLMs with tool calling.
+**Focus areas:** Python, LLM applications, information retrieval, and practical AI workflows.
 
-**Tech:** Laravel · Vue.js · Python · FastAPI · LLM · Agentic AI
+🔗 **Repository:** [Add your AI Research Assistant repository URL]
 
----
+### 2. Document Intelligence RAG Agent
+An assistant designed to answer questions about PDFs, company documents, or technical documentation using retrieval-augmented generation.
 
-### ⚡ Laravel REST API Starter
+**Planned/core capabilities:**
+- Document ingestion and text chunking
+- Embeddings and vector search
+- Answers grounded in retrieved document content
+- Source citations
+- Conversation history
+- LangGraph-based workflow
 
-A reusable Laravel backend starter with:
+**Technology direction:** Python, FastAPI, LangGraph, ChromaDB or FAISS, an LLM API, and Streamlit.
 
-- Authentication
-- Authorization
-- API versioning
-- Pagination
-- Role-based permissions
-- Request validation
-- API documentation
+🔗 **Repository:** [Add your Document Intelligence RAG Agent repository URL]
 
-**Tech:** Laravel · PHP · MySQL · Sanctum
+### 3. AdPilot AI
+An AI-powered advertising product concept focused on helping users create and manage advertising workflows through a web application.
 
----
+**Development focus:** Laravel APIs, Next.js frontend, authentication, business onboarding, templates, and advertising account connections.
 
-### 📊 Business Workflow Manager
-
-A full-stack business application for managing:
-
-- Customers
-- Tasks
-- Statuses
-- Activities
-- Users
-- Business workflows
-
-**Tech:** Laravel · Vue.js · MySQL
+🔗 **Repository:** [Add your AdPilot AI repository URL]
 
 ---
 
-## 🧠 Currently Learning
+## 📚 What I'm Learning
 
-| Area | Focus |
-|------|-------|
-| 🐍 Python | AI & automation development |
-| 🧠 LLMs | LLM application development |
-| 📚 RAG | Retrieval-Augmented Generation |
-| 🔧 Tool Calling | Connecting AI with external tools |
-| 🤖 Agentic AI | Autonomous AI workflows |
-| 🚀 AI Apps | Production-ready AI applications |
+My current learning path focuses on building AI applications step by step:
 
----
-
-## 🎯 2026 Goals
-
-- Build production-ready AI applications
-- Build practical Agentic AI projects
-- Combine my web development experience with AI
-- Learn advanced LLM application development
-- Build and deploy AI agents
-- Contribute to open-source projects
+1. Strengthen Python and backend development for AI.
+2. Understand LLM APIs, prompt design, embeddings, and vector databases.
+3. Build RAG applications with document ingestion and source citations.
+4. Develop tool-using agents and workflows with LangGraph.
+5. Add evaluation, tracing, testing, security, and cost monitoring.
+6. Deploy complete AI applications with clear documentation.
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Background
 
-<p align="center">
+I started in full-stack web and mobile development, working with Laravel and Flutter and later expanding into Vue.js and modern frontend workflows. I'm now applying that software engineering foundation to AI application development.
 
-<img src="https://github-readme-stats.vercel.app/api?username=agola-manav&show_icons=true&theme=default&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agola-manav&layout=compact&hide_border=true" height="170"/>
-
-</p>
+I believe useful AI products need more than a model call: they need well-designed APIs, reliable data flows, secure authentication, testing, observability, and a clear user experience.
 
 ---
 
-## 🔥 GitHub Streak
+## 🤝 Connect With Me
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=agola-manav&hide_border=true" />
-
-</p>
+- **GitHub:** https://github.com/agola-manav
+- **Email:** manav.developer@gmail.com
 
 ---
 
-## 📈 Contribution Graph
+## 📌 GitHub Portfolio Goals
 
-<p align="center">
+I'm working toward a portfolio of practical, well-documented projects that demonstrate:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agola-manav&hide_border=true" />
+- Clear architecture and setup instructions
+- Readable, maintainable code
+- Environment-variable configuration without exposing secrets
+- Tests and useful error handling
+- Security-conscious implementation
+- Honest documentation of implemented features and limitations
+- Deployment instructions where applicable
 
-</p>
-
----
-
-## 🤝 Let's Connect
-
-- 💻 GitHub: [@agola-manav](https://github.com/agola-manav)
-- 📍 Gujarat, India
-
----
-
-### 💡 Building with code today. Building with AI tomorrow. 🤖
+Thanks for visiting my profile! Feel free to explore my repositories and follow along as I build more software and AI projects. 🚀
